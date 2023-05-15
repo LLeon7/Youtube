@@ -1,1 +1,3 @@
-Making a replicant of Youtube's webpage to learn html, css and javascript
+Making a copy from scratch of Youtube's homepage built with html and css
+
+![Screenshot of my Youtube copy](Sample.png)
